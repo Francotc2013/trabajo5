@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tiene el pelo largo
+=======
+Madre
+>>>>>>> 1ced6d80a1d3364cd57afd2c9f27b500c01bb93f
